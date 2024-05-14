@@ -1,0 +1,32 @@
+{
+    "BigQuery Schema": [{
+      "name": "rank",
+      "type": "INTEGER"
+     },
+     {
+      "name": "name",
+      "type": "STRING"
+     },
+     {
+      "name": "country",
+      "type": "STRING"
+     },
+     {
+        "name": "rating",
+        "type": "INTEGER"
+       },
+     {
+        "name": "points",
+        "type": "INTEGER"
+       },
+     {
+        "name": "lastUpdateOn",
+        "type": "DATE"
+       },
+       {
+        "name": "trend",
+        "type": "STRING"
+       }
+     
+    ]
+   }

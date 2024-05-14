@@ -1,0 +1,3 @@
+google-cloud
+apache-beam[gcp]
+google-cloud-storage
