@@ -4,7 +4,7 @@
 
 This project aims to establish a robust data pipeline and ETL process on Google Cloud Platform to automate the extraction, transformation, and loading of cricket ranking data from various APIs into Google BigQuery for analysis and visualization in Looker Studio.
 
-![maquete_projet](docs/maquete_projet.PNG)
+![maquete_projet](docs/maquete_projet.png)
 
 ## Architecture Diagram
 
